@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./GitHub.png" />
-</p>
-
-<p align="center">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=andr30z&show_icons=true&theme=algolia" alt="stats" height=175 />
   </span>
