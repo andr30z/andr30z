@@ -1,6 +1,6 @@
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=andr30z&show_icons=true&theme=algolia" alt="stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api?username=andr30z&show_icons=true&theme=algolia&hide=stars,issues" alt="stats" height=175 />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andr30z&layout=compact&show_icons=true&theme=algolia" alt="stats" height=175 />
