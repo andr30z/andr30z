@@ -3,7 +3,7 @@
 
 ```diff
 < Full stack dev
-< Currently learning Kotlin
+< Currently learning Docker/AWS
 
 > I love doing random projects
 > 24/7 listening to music
